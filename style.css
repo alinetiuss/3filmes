@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.conteudo{
+display: table;
+}
+
+.imagem{
+display: table-cell;
+float: left;
+}
+
+.texto{
+display: table-cell;
+float: right;
+width: 500px;
+margin-top: 5px;
+margin-left: 20px;
+}
